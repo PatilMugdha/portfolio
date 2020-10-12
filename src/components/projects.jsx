@@ -29,7 +29,7 @@ export default class Projects extends Component {
 								</div>
 							</div>
 						<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{ backgroundImage: 'url(images/mika-baumeister-Wpnoqo2plFA-unsplash.jpg)' }}>
+								<div className="project" style={{ backgroundImage: 'url(images/david-travis-WC6MJ0kRzGw-unsplash.jpg)' }}>
 									<div className="desc">
 										<div className="con">
 											<h3>Test Automation</h3>
