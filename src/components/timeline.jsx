@@ -66,7 +66,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2><a href="grad">Graduation at San Jose State University</a> <span>Fall 2018 - Spring 2020</span></h2>
-                        <p>I completed my Master's in Computer Science, just to learning new skills, get better at existing ones..and have schooling experience once again!</p>
+                        <p>I completed my Master's in Computer Science, to learn new skills, get better at existing ones. This bought me an amazing schooling experience once again!</p>
                       </div>
                     </div>
                   </article>
