@@ -33,7 +33,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2><a href="verizon">Data Engineer Intern At Verizon Media</a> <span>Feb 2020 - May 2020</span></h2>
-                        <p>Worked in the Big Data and Artificial Intelligence team at the Verizon's Yahoo office. Received hands-on experience with Apache Spark using Scala. My team was incredibly energetic! I am happy to have worked on systems that handle massive amount of data; as well as having learnt from highly skilled, experienced and keen people. An there were perks like awesome food :)</p>
+                        <p>Worked in the Big Data and Artificial Intelligence team at the Verizon's Yahoo office. Received hands-on experience with Apache Spark using Scala. My team was incredibly energetic! I am happy to have worked on systems that handle massive amount of data; as well as having learnt from highly skilled, experienced and keen people. (And enjoyed awesome food at the office :))</p>
                       </div>
                     </div>
                   </article>
