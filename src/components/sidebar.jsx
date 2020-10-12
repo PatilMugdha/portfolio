@@ -43,7 +43,7 @@ export default class Sidebar extends Component {
                   Thanks <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> for inspiration 
               </small></p>
               <p><small>
-                Deployed on gh-pages
+                Deployment on gh-pages using Travis CI
               </small></p>
             </div>
           </aside>
