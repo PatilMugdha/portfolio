@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/PatilMugdha/portfolio.svg?branch=master)](https://travis-ci.com/PatilMugdha/portfolio)
+
 # PORTFOLIO-APP 
 
 - To run this project follow these steps , 
@@ -6,4 +8,4 @@
   - run `npm install` to instal node modules
   - run `npm start` to start the service on `localhost:3000`
     
-##### deployed app : https://github.com/PatilMugdha/portfolio
+##### deployed app : https://github.com/PatilMugdha/portfolio/
