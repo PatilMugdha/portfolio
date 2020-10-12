@@ -117,8 +117,9 @@ export default class About extends Component {
                                         <i className="icon-heart" />
                                     </span>
                                     <div className="desc">
-                                        <h3>Arts and Music</h3>
-                                        <p>Painting, sketching, writing blogs..and piano :)</p>
+                                        <h3>Arts, Music, and Sports</h3>
+                                        <p>Painting, sketching, writing blogs, some news...</p>
+                                        <p>Swimming, skating, table tennis, martial arts...and piano :)</p>
                                     </div>
                                 </div>
                             </div>

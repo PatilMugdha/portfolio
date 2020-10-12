@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2><a href="#amazon">Software Engineer at Amazon Web Services</a> <span>June 2020 - Present</span></h2>
-                        <p>Working in the DBAA Consoles team at Palo Alto, CA. I began with test automating some features, followed by frontend development. Currently, I am part of developing a new project from scratch..very excited about the journey! </p>
+                        <p>Working in the DBAA Consoles team at Palo Alto, CA. I began with test automating some features, followed by frontend development. Currently, I am developing a new project from scratch with my team...very excited about the journey! </p>
                       </div>
                     </div>
                     </article>
